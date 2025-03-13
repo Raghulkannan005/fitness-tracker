@@ -17,14 +17,14 @@ A modern and feature-rich fitness tracking application built with Python and Tki
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Raghulkannan005/fitness-tracker.git
 cd fitness-tracker
 ```
 
 2. Create a virtual environment (recommended):
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 3. Install dependencies:
